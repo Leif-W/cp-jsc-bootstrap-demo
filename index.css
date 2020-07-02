@@ -1,0 +1,25 @@
+.navbar {
+	background-color: #111;
+	border-bottom: 2px solid #fc1;
+}
+
+.jumbotron {
+	background-color: #222;
+	color: #fff;
+}
+
+.icons {
+	font-size: 3rem;
+}
+
+.icons > a {
+	color: #666;
+	margin: 1rem;
+}
+
+.icons > a:hover {
+	text-decoration: none;
+	color: #fc1;
+	transition: 0.9s ;
+	transform: rotatoe(-360deg);
+}
